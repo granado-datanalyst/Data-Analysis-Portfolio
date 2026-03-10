@@ -1,0 +1,6 @@
+Requirements for this Project:
+
+streamlit
+pandas
+plotly
+sqlite3
