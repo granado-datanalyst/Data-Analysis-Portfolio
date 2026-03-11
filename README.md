@@ -12,7 +12,6 @@
   <strong>José Granado</strong> | Data Analyst<br>
   📧 <a href="mailto:josegranadopass@gmail.com">josegranadopass@gmail.com</a> | 
   💼 <a href="https://linkedin.com/in/tu-perfil">LinkedIn</a> | 
-  🌐 <a href="#">Portfolio Live</a>
 </p>
 
 <p align="center">
@@ -161,7 +160,6 @@ streamlit run retail_uk_dashboard.py
 
 📧 [josegranadopass@gmail.com](mailto:josegranadopass@gmail.com)  
 💼 [LinkedIn](#)  
-📅 [Schedule a call](#)
 
 ---
 
@@ -313,7 +311,6 @@ streamlit run retail_uk_dashboard.py
 
 📧 [josegranadopass@gmail.com](mailto:josegranadopass@gmail.com)  
 💼 [https://www.linkedin.com/in/perikogranado/](#)  
-📅 [Agendar llamada](#)
 
 ---
 
@@ -328,5 +325,6 @@ MIT License - Datasets de fuentes públicas (Kaggle)
 **⭐ Si este portfolio te resultó útil, dale una estrella!**
 
 *Desarrollado con ❤️ por José Granado*
+
 
 </div>
