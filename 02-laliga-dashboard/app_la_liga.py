@@ -1,4 +1,3 @@
-import os
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -29,9 +28,7 @@ st.markdown("""
 @st.cache_data
 def cargar_y_unir_datos():
     """Carga y unifica las 3 hojas del Excel"""
-    # Usamos os para encontrar el archivo en la nube
-    directorio_actual = os.path.dirname(__file__)
-    archivo = os.path.join(directorio_actual, 'sofascore top 200 main stats.xlsx')
+    archivo = 'sofascore top 200 main stats.xlsx'
 
     try:
         atq = pd.read_excel(archivo, sheet_name='player la liga attack stats')
@@ -812,5 +809,4 @@ with tab5:
 # ============================================
 
 st.markdown("---")
-
 st.markdown("**Datos:** Sofascore | **Dashboard by:** José Granado")
